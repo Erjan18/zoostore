@@ -1,0 +1,67 @@
+/** @type {import('tailwindcss').Config} */
+export default {
+  content: ['./index.html', './src/**/*.{js,ts,jsx,tsx}'],
+  theme: {
+    extend: {
+      colors: {
+        primary: {
+          50: '#FFF5EF',
+          100: '#FEEDDF',
+          200: '#FDDBBF',
+          300: '#FBC99F',
+          400: '#F9BC8F',
+          500: '#F79F5F',
+          600: '#F5833F',
+          700: '#F3671F',
+          800: '#D9530E',
+          900: '#B9470C',
+        },
+        secondary: {
+          50: '#F0FBEF',
+          100: '#E1F7DF',
+          200: '#C3EFBF',
+          300: '#A7E8BD',
+          400: '#8AE09D',
+          500: '#6DD87D',
+          600: '#50D05D',
+          700: '#33C83D',
+          800: '#2BAA33',
+          900: '#248C2A',
+        },
+        accent: {
+          50: '#EFF8FA',
+          100: '#DFF1F5',
+          200: '#BEE3EB',
+          300: '#9ED5E0',
+          400: '#7EC4CF',
+          500: '#5DB6C4',
+          600: '#3DA8B9',
+          700: '#2C8A98',
+          800: '#236D77',
+          900: '#1B5056',
+        },
+        neutral: {
+          50: '#F8F9FA',
+          100: '#F1F3F5',
+          200: '#E9ECEF',
+          300: '#DEE2E6',
+          400: '#CED4DA',
+          500: '#ADB5BD',
+          600: '#6C757D',
+          700: '#495057',
+          800: '#343A40',
+          900: '#212529',
+        },
+      },
+      fontFamily: {
+        montserrat: ['Montserrat', 'sans-serif'],
+        roboto: ['Roboto', 'sans-serif'],
+      },
+      boxShadow: {
+        'card': '0 4px 6px -1px rgba(0, 0, 0, 0.05), 0 2px 4px -1px rgba(0, 0, 0, 0.03)',
+        'card-hover': '0 10px 15px -3px rgba(0, 0, 0, 0.08), 0 4px 6px -2px rgba(0, 0, 0, 0.04)',
+      },
+    },
+  },
+  plugins: [],
+};
