@@ -29,7 +29,6 @@ export const pets: Pet[] = [
     careInstructions: 'Требуется ежедневная физическая активность, регулярное расчесывание шерсти и сбалансированное питание.',
     images: [
       'https://images.pexels.com/photos/333083/pexels-photo-333083.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1',
-      'https://images.pexels.com/photos/1805164/pexels-photo-1805164.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1'
     ],
     available: true,
     features: ['Игривый', 'Умный', 'Обучаемый', 'Дружелюбный'],
@@ -48,8 +47,7 @@ export const pets: Pet[] = [
     description: 'Муся - очаровательная британская кошечка с плюшевой шерстью. Она спокойная, ласковая и любит сидеть на коленях. Приучена к лотку и когтеточке.',
     careInstructions: 'Нуждается в регулярном расчесывании шерсти, качественном корме и чистом лотке.',
     images: [
-      'https://images.pexels.com/photos/1170986/pexels-photo-1170986.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1',
-      'https://images.pexels.com/photos/127028/pexels-photo-127028.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1'
+      'https://yac-wh-sb-prod-s3-media-07001.storage.yandexcloud.net/media/images/britanskaya-korotkosherstnaya-.max-2880x1820.format-jpeg_aw71Muw.jpg',
     ],
     available: true,
     features: ['Спокойная', 'Ласковая', 'Чистоплотная', 'Игривая'],
@@ -68,8 +66,7 @@ export const pets: Pet[] = [
     description: 'Кеша - яркий волнистый попугайчик с дружелюбным характером. Он уже научился сидеть на пальце и не боится людей. Принесет много радости вашей семье.',
     careInstructions: 'Требуется просторная клетка, свежая вода, специальный корм для попугаев и возможность летать вне клетки.',
     images: [
-      'https://images.pexels.com/photos/1661179/pexels-photo-1661179.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1',
-      'https://images.pexels.com/photos/3608263/pexels-photo-3608263.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1'
+      'https://zoostore.pro/upload/iblock/545/d2cmqt4z8aj33ol531vw91775khbtwd3.jpeg',
     ],
     available: true,
     features: ['Яркий', 'Активный', 'Любопытный', 'Обучаемый'],
@@ -88,7 +85,7 @@ export const pets: Pet[] = [
     description: 'Хомка - забавный сирийский хомячок с золотистой шерсткой. Он активный по вечерам и любит бегать в колесе. Идеальный питомец для начинающих.',
     careInstructions: 'Нуждается в просторной клетке с опилками, беговом колесе, укрытии и регулярной чистке клетки.',
     images: [
-      'https://images.pexels.com/photos/4520483/pexels-photo-4520483.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1'
+      'https://zoobonus.ua/storage/breeds/images/big/v1VtBwTspgLzFBBCwp62EktZNiUSk9jColBBqDKw.jpg'
     ],
     available: true,
     features: ['Активный', 'Любопытный', 'Неприхотливый', 'Забавный'],
@@ -105,8 +102,7 @@ export const pets: Pet[] = [
     description: 'Белла - очаровательный щенок лабрадора с золотистой шерстью. Она игривая, ласковая и очень умная. Отлично подойдет для семьи с детьми.',
     careInstructions: 'Требуется ежедневная физическая активность, регулярное купание и качественное питание.',
     images: [
-      'https://images.pexels.com/photos/1108099/pexels-photo-1108099.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1',
-      'https://images.pexels.com/photos/1490908/pexels-photo-1490908.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1'
+      'https://storage.yandexcloud.net/yac-wh-sb-prod-s3-media-03005/uploads/breed/689/d20ef42c7ee0f73d9bf43fb5c3538e9f.webp',
     ],
     available: true,
     features: ['Добрая', 'Игривая', 'Умная', 'Любит детей'],
@@ -125,8 +121,7 @@ export const pets: Pet[] = [
     description: 'Симба - маленький представитель породы мейн-кун с потрясающей внешностью. У него красивый окрас, кисточки на ушах и уже сейчас видно, что вырастет очень крупным.',
     careInstructions: 'Требуется регулярное расчесывание, специальные игрушки для активных кошек и качественное питание.',
     images: [
-      'https://images.pexels.com/photos/569170/pexels-photo-569170.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1',
-      'https://images.pexels.com/photos/38867/pexels-photo-38867.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1'
+      'https://zoo-vision.com/images/veter74.webp',
     ],
     available: true,
     features: ['Крупный', 'Ласковый', 'Игривый', 'Умный'],
@@ -145,7 +140,7 @@ export const pets: Pet[] = [
     description: 'Рио - молодой попугай жако, известный своим интеллектом и способностью к обучению. Уже знает несколько слов и легко поддается дрессировке.',
     careInstructions: 'Необходима большая клетка, разнообразное питание, игрушки для развития интеллекта и регулярное общение.',
     images: [
-      'https://images.pexels.com/photos/97533/pexels-photo-97533.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1'
+      'https://nerazluchnik.com/wp-content/uploads/2022/07/4-32.jpg'
     ],
     available: true,
     features: ['Умный', 'Разговорчивый', 'Социальный', 'Долгожитель'],
@@ -164,7 +159,7 @@ export const pets: Pet[] = [
     description: 'Зигзаг - дружелюбная бородатая агама, которая любит общение с человеком. Спокойный характер делает его отличным питомцем даже для начинающих.',
     careInstructions: 'Требуется террариум с УФ-лампой, правильный температурный режим и разнообразное питание (насекомые и растения).',
     images: [
-      'https://images.pexels.com/photos/2062324/pexels-photo-2062324.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1'
+      'https://marchelache.com/storage/ed/1b/ed1b71eb-2883-4d67-a923-3c3adfbc7cae/ciunkrotrg.jpg'
     ],
     available: true,
     features: ['Спокойный', 'Неприхотливый', 'Дружелюбный', 'Интересный'],
@@ -200,7 +195,7 @@ export const pets: Pet[] = [
     description: 'Пиксель - очаровательная шиншилла с мягкой серой шерсткой. Активная и любознательная, любит играть и купаться в специальном песке.',
     careInstructions: 'Нужна просторная клетка, специальный песок для купания, сено, веточки для стачивания зубов и прохладное помещение.',
     images: [
-      'https://images.pexels.com/photos/3882503/pexels-photo-3882503.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1'
+      'https://s0.rbk.ru/v6_top_pics/media/img/0/32/347223560943320.webp'
     ],
     available: true,
     features: ['Активная', 'Чистоплотная', 'Ласковая', 'Тихая'],
@@ -238,7 +233,7 @@ export const pets: Pet[] = [
     description: 'Локи - молодой королевский питон с красивым узором. Спокойный и неагрессивный, отлично подходит для начинающих любителей рептилий.',
     careInstructions: 'Необходим террариум с контролем температуры и влажности, укрытия, регулярное кормление и чистая вода.',
     images: [
-      'https://images.pexels.com/photos/2062316/pexels-photo-2062316.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1'
+      'https://planetexotic.ru/wa-data/public/shop/products/83/36/3683/images/8077/8077.970.png'
     ],
     available: true,
     features: ['Спокойный', 'Неагрессивный', 'Красивый', 'Неприхотливый'],
