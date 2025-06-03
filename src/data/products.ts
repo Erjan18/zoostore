@@ -11,7 +11,7 @@ export const products: Product[] = [
     description: 'Сухой корм премиум класса для взрослых кошек с нормальной активностью. Содержит оптимальное количество белков, жиров и углеводов для поддержания здоровья вашего питомца.',
     features: ['Для взрослых кошек', 'Поддержание иммунитета', 'Здоровая шерсть', 'Без искусственных красителей'],
     images: [
-      'https://images.pexels.com/photos/6823218/pexels-photo-6823218.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1'
+      'https://basket-02.wbbasket.ru/vol181/part18107/18107960/images/big/1.webp'
     ],
     available: true,
     stock: 15,

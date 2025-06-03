@@ -62,7 +62,7 @@ const PromoSection: React.FC = () => {
           <div className="relative h-64 rounded-xl overflow-hidden">
             <div 
               className="absolute inset-0 bg-cover bg-center" 
-              style={{ backgroundImage: `url(https://images.pexels.com/photos/6607317/pexels-photo-6607317.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1)` }}
+              style={{ backgroundImage: `url(https://static.insales-cdn.com/r/yoo-emQBlcI/rs:fit:1408:0:1/q:100/plain/images/articles/1/671/4629151/%D1%81%D0%BA%D0%B8%D0%B4%D0%BA%D0%B0.jpg@jpg)` }}
             ></div>
             <div className="absolute inset-0 bg-gradient-to-r from-black/70 to-transparent"></div>
             

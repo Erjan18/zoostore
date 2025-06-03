@@ -70,21 +70,21 @@ export const productCategories: Category[] = [
     id: 'toys',
     name: 'Игрушки',
     description: 'Мячики, игрушки-пищалки, интерактивные игрушки',
-    image: 'https://images.pexels.com/photos/4046358/pexels-photo-4046358.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1',
+    image: 'https://img.joomcdn.net/1ee7cc5420262cbe8de91263f831212063c728f2_original.jpeg',
     link: '/catalog/products/toys'
   },
   {
     id: 'care',
     name: 'Средства ухода',
     description: 'Шампуни, щетки, когтерезки, средства от паразитов',
-    image: 'https://images.pexels.com/photos/5257587/pexels-photo-5257587.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1',
+    image: 'https://storage.yandexcloud.net/moskvichmag/uploads/2019/03/5.jpg',
     link: '/catalog/products/care'
   },
   {
     id: 'housing',
     name: 'Домики и клетки',
     description: 'Лежанки, домики, клетки, переноски',
-    image: 'https://images.pexels.com/photos/8941107/pexels-photo-8941107.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1',
+    image: 'https://ae04.alicdn.com/kf/S3e4a5b06a3b44308b2a3d5ae91b04b452.jpg',
     link: '/catalog/products/housing'
   }
 ];
